@@ -1,0 +1,10 @@
+wikipedia
+langchain-core
+langgraph
+langchain-openai
+langchain-experimental 
+langgraph-supervisor
+pandas
+numpy
+requests
+
